@@ -1,7 +1,7 @@
 # ImageDetector
 Data is not available here because github is not accepting file above 25MB .
 
-Coding is done in Linux system so if you are using windows system change the format of the file path according to windows.
+Coding is done in Windows system so if you are using Linux system change the format of the file path according to Linux.
 
 
 Sequencing Of File
